@@ -1,0 +1,162 @@
+
+#!/bin/bash
+########################
+# UAV 8
+########################
+
+mvn package 
+
+#////////#
+#Test 8-2
+#////////#
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-2
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-2
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-2
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-2
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-2
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-2
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-2
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-2
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-2
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-2
+
+#////////#
+#Test 8-4
+#////////#
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-4
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-4
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-4
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-4
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-4
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-4
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-4
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-4
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-4
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-4
+
+
+#////////#
+#Test 8-8
+#////////#
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-8
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-8
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-8
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-8
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-8
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-8
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-8
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-8
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-8
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-8
+
+
+
+#////////#
+#Test 8-16
+#////////#
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-16
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-16
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-16
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-16
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-16
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-16
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-16
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-16
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-16
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-16
+
+
+
+#////////#
+#Test 8-64
+#////////#
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-64
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-64
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-64
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-64
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-64
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-64
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-64
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-64
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-64
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-64
+
+
+
+#////////#
+#Test 8-256
+#////////#
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-256
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-256
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-256
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-256
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-256
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-256
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-256
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-256
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-256
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-256
+
+
+
+
+#////////#
+#Test 8-512
+#////////#
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-512
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-512
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-512
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-512
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-512
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-512
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-512
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-512
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-512
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-512
+
+
+#////////#
+#Test 8-1024
+#////////#
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-1024
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-1024
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-1024
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-1024
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-1024
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-1024
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-1024
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-1024
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-1024
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-1024
+
+#////////#
+#Test 8-2048
+#////////#
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-2048
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-2048
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-2048
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-2048
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-2048
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-2048
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-2048
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-2048
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-2048
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-2048
+
+
+
+
+#////////#
+#Test 8-4096
+#////////#
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-4096
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-4096
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-4096
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-4096
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-4096
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-4096
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-4096
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-4096
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-4096
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test8-4096
+

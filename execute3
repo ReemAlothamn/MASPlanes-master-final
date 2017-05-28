@@ -1,0 +1,56 @@
+
+#!/bin/bash
+########################
+# UAV 128
+########################
+
+mvn package 
+
+
+
+#////////#
+#Test 128-64
+#////////#
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test128-64
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test128-64
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test128-64
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test128-64
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test128-64
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test128-64
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test128-64
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test128-64
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test128-64
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test128-64
+
+
+#////////#
+#Test 128-256
+#////////#
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test128-256
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test128-256
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test128-256
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test128-256
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test128-256
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test128-256
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test128-256
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test128-256
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test128-256
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test128-256
+
+
+
+#////////#
+#Test 128-512
+#////////#
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test128-512
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test128-512
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test128-512
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test128-512
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test128-512
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test128-512
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test128-512
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test128-512
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test128-512
+sh bin/simulator /home/user/Desktop/UAV/benchmarks/test128-512
+
+

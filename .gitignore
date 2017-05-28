@@ -1,0 +1,15 @@
+MASPlanes.iml
+target
+bin
+repo
+.idea
+nbproject
+manifest.mf
+build
+dist
+problem
+problem.short
+nbproject/private
+dependencies
+generator.settings
+generator.short.settings
